@@ -1,16 +1,16 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: John Wei
+subtitle: 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hello there, welcome to my personal blog on machine learning and data science in the cloud environment. My name is John Wei. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Ph.D. in Engineering Science
+- Post-doctoral Research in High Performance Computing for Coastal Science
 
-What else do you need?
+[//] # What else do you need?
 
-### my history
+[//] # ### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+[//] # To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
